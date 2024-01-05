@@ -104,8 +104,6 @@ Section 5: Capstone Projects and Real-World Applications
 
 I am so excited to see you start this ***free*** and exciting journey with us. 
 
-test
-
 <!--- 
 To publish your content please use the following commands:
 git add .
