@@ -102,14 +102,11 @@ Section 5: Capstone Projects and Real-World Applications
    - Creating a Support Plan
    - Final Assessment and Certification
 
-I am so excited to see you start this ***free*** and exciting journey with us. 
-<!--- 
-To publish your content please use the following commands:
+I am so excited to see you start this **free** and exciting journey with us. 
+<!--- To publish your content please use the following commands:
 git add .
 git status
 git commit -m "feat(post): NOTES"
 git push
-
 As shown to link to one file from another use: 
-[Module 1: Understanding the Basics](.) after that . file options will appear
---->
+[Module 1: Understanding the Basics](.) after that . file options will appear--->
