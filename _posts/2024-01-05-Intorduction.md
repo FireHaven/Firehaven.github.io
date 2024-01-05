@@ -25,7 +25,7 @@ Our students have felt your frustration. We understand that many feel, after tak
 
 # What you will learn in this course
 
-***note that the links will take you to another page, please read the full page before clicking links***
+<span style="color:red">***note that the links will take you to another page, please read the full page before clicking links***</span>
 
 Section 1: Introduction to Computers and IT Fundamentals
 1. [Module 1: Understanding the Basics](2024-01-05-Module1the%20Basics.md)
