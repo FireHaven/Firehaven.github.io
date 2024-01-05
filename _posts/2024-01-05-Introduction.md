@@ -28,7 +28,7 @@ Our students have felt your frustration. We understand that many feel, after tak
 <span style="color:red">**note that the links will take you to another page, please read the full page before clicking links**</span>
 
 Section 1: Introduction to Computers and IT Fundamentals
-1. [Module 1: Understanding the Basics](2024-01-05-Module1the%20Basics.md)
+1. [Module 1: Understanding the Basics](2024-01-05-Module1theBasics.md)
    - What is a computer?
    - Hardware vs. Software
    - Operating Systems Overview
@@ -103,7 +103,8 @@ Section 5: Capstone Projects and Real-World Applications
    - Final Assessment and Certification
 
 I am so excited to see you start this **free** and exciting journey with us. 
-<!--- To publish your content please use the following commands:
+<!--- 
+To publish your content please use the following commands:
 git add .
 git status
 git commit -m "feat(post): NOTES"
