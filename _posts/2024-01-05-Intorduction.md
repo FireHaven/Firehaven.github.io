@@ -10,7 +10,6 @@ tags: [Helpdesk]       # TAG names should always be lowercase
 ```
 This is to test our codeblocks
 ```
-test the facts my dude
 
 ```python
 print ("You are the one")
