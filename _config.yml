@@ -9,24 +9,24 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Denver
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Course Documentation # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: True step by step instructions to become a cyber pro # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is where you come to learn HANDS ON IT content
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://Firehaven.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: Firehaven # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -73,13 +73,12 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab6b8f6b-f977-478a-8bff-354a015b89a6/dcsl47v-d05a3309-1862-4341-b1de-fa480ee56e12.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiNmI4ZjZiLWY5NzctNDc4YS04YmZmLTM1NGEwMTViODlhNlwvZGNzbDQ3di1kMDVhMzMwOS0xODYyLTQzNDEtYjFkZS1mYTQ4MGVlNTZlMTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KIWRYQnXMPAd0VzmuWuzTYEKeK3UHq76pMW49wYeoao
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
