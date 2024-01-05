@@ -191,19 +191,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-<script src="https://giscus.app/client.js"
-        data-repo="FireHaven/Firehaven.github.io"
-        data-repo-id="R_kgDOLBBmxQ"
-        data-category="General"
-        data-category-id="DIC_kwDOLBBmxc4CcOVR"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
