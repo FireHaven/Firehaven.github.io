@@ -28,7 +28,7 @@ Our students have felt your frustration. We understand that many feel, after tak
 <span style="color:red">**note that the links will take you to another page, please read the full page before clicking links**</span>
 
 Section 1: Introduction to Computers and IT Fundamentals
-1. [Module 1: Understanding the Basics](/_site/posts/module1thebasics/)
+1. Module 1: Understanding the Basics
    - What is a computer?
    - Hardware vs. Software
    - Operating Systems Overview
