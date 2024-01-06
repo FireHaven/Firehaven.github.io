@@ -14,7 +14,7 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Course Documentation # the main title
+title: Learn Hands on Information Technology Guides # the main title
 
 tagline: True step by step instructions to become a cyber pro # it will display as the sub-title
 
@@ -111,7 +111,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://firehaven.github.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
