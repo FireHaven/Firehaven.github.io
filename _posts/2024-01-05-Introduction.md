@@ -3,6 +3,7 @@ title: Introduction to Cyber Fundamentals (Helpdesk)
 date: 2024-01-04 11:02:00 -700
 categories: [Cyber Fundamentals]
 tags: [Helpdesk]       # TAG names should always be lowercase
+image: /Images/Module 1 Understanding the Basics.png
 ---
 
 # Information Systems Introduction
