@@ -3,6 +3,7 @@ title: 'Module 1: Understanding the Basics'
 date: 2024-01-04 04:32:00 -700
 categories: [Cyber Fundamentals]
 tags: [Helpdesk]       # TAG names should always be lowercase
+image: /Images/Module 1 Understanding the Basics.png
 ---
 # Overview 
  Module 1: Understanding the Basics
